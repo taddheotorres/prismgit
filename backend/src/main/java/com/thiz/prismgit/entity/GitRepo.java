@@ -40,6 +40,8 @@ public class GitRepo {
     @Enumerated(EnumType.STRING)
     private RepoProvider provider;
 
+    private UUID ownerId;
+
     @Column(nullable = false, updatable = false)
     private LocalDateTime createdAt;
 

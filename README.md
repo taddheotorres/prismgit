@@ -2,8 +2,6 @@
 
 Transform Git commit history into coherent narrative stories. A full-stack analytics dashboard that tells the visual story of a Git repository.
 
-**Live demo:** https://prismgit-production.up.railway.app
-
 ## Stack
 
 - **Backend:** Java 17+, Spring Boot 3.4.1, Spring Data JPA, Flyway, JGit 7.1
